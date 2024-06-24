@@ -90,7 +90,9 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 ## Contact
 
-For any inquiries or issues, please open an issue on the GitHub repository.
+For any inquiries or issues, please open an issue on the GitHub repository. <br>
+> **Note:** For more information, you can connect with me on [LinkedIn](www.linkedin.com/in/gourab-pal-0327801a4).
+
 
 ---
 
