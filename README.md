@@ -65,6 +65,8 @@ Upon running the application, the main menu displays various options for differe
 6 --->> Fetch customer name by room number <br>
 7 --->> Fetch customer room number by name <br>
 
+![Hotel Image](cli_demo.png)
+
 
 ### Booking and Checkout
 
