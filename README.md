@@ -92,9 +92,6 @@ Upon running the application, the main menu displays various options for differe
 
 Contributions are welcome! Please fork this repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
