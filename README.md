@@ -51,19 +51,19 @@ This repository contains a Java-based console application designed to manage hot
 
 Upon running the application, the main menu displays various options for different actions:
 
-************* Welcome to Hotel Rising Star **************
-******************** Date - YYYY-MM-DD ******************
-******************* SELECT CHOICE ***********************
+************* Welcome to Hotel Rising Star ************** <br>
+******************** Date - YYYY-MM-DD ******************<br>
+******************* SELECT CHOICE ***********************<br>
 
--1 --->> Stop
-0 --->> Hotel details
-1 --->> Show the room matrix
-2 --->> Bulk checkin
-3 --->> Show active bookings
-4 --->> Single checkout
-5 --->> Fetch coin balance
-6 --->> Fetch customer name by room number
-7 --->> Fetch customer room number by name
+-1 --->> Stop <br>
+0 --->> Hotel details <br>
+1 --->> Show the room matrix <br>
+2 --->> Bulk checkin <br>
+3 --->> Show active bookings <br>
+4 --->> Single checkout <br>
+5 --->> Fetch coin balance <br>
+6 --->> Fetch customer name by room number <br>
+7 --->> Fetch customer room number by name <br>
 
 
 ### Booking and Checkout
